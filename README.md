@@ -18,6 +18,9 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
+<p align="center">visitors </p>
+<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+
 <!--
 **Saccha/Saccha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
