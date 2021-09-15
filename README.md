@@ -1,6 +1,6 @@
 # ⭐ 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝖕𝖗𝖔𝖋𝖎𝖑𝖊 ⭐
 
-<img src= https://c.tenor.com/6nBor-Pxi8MAAAAC/anime-onodera.gif width= "800">
+<img src= https://c.tenor.com/6nBor-Pxi8MAAAAC/anime-onodera.gif width= "650">
 
 # ⭐ 𝕸𝖞 𝕾𝖙𝖆𝖙𝖘 ⭐
 ![Saccha's GitHub stats](https://github-readme-stats.vercel.app/api?username=saccha&theme=dracula&show_icons=true)
