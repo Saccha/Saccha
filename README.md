@@ -1,7 +1,7 @@
 # Hi there 👋
 - 🌱 I’m currently learning Back-end and Front-End: Python,C#,Kotlin,HTML,CSS,JavaScript,C
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+<img src=https://www.google.com/search?source=univ&tbm=isch&q=gif+smile+hi+anime&sa=X&ved=2ahUKEwiS3KXJiILzAhUIJbkGHdeqARIQjJkEegQIAhAC&biw=1366&bih=657#imgrc=9fNwT3a1lstkwMwidth="30">
 
 ![Saccha's GitHub stats](https://github-readme-stats.vercel.app/api?username=saccha&theme=dracula&show_icons=true)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saccha&repo=github-readme-stats)](https://github.com/saccha/github-readme-stats)
