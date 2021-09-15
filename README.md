@@ -1,4 +1,4 @@
-# ¤¸¸.•´¯`•¸¸.•..>> 𝐻𝒾 𝓉𝒽𝑒𝓇𝑒 >>..•.¸¸•`¯´•.¸¸¤
+# 𝓗𝓲 𝓽𝓱𝓮𝓻𝓮
 
 ## 🌱 I’m currently learning Back-end and Front-End: Python,C#,Kotlin,HTML,CSS,JavaScript,C
 
