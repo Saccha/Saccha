@@ -1,4 +1,4 @@
-# 𝓗𝓲 𝓽𝓱𝓮𝓻𝓮
+# 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝖕𝖗𝖔𝖋𝖎𝖑𝖊
 
 ## 🌱 I’m currently learning Back-end and Front-End: Python,C#,Kotlin,HTML,CSS,JavaScript,C
 
