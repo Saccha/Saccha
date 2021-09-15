@@ -8,9 +8,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saccha&hide=html&layout=compact&theme=buefy" />  
 
--------------------------------------------------------------------------------------------------------------------------------------------
-
-<p align="center"> 👀 𝓥𝓲𝓼𝓲𝓽𝓸𝓻𝓼 👀</p>
+<p align="center"> 👀 𝓥𝓲𝓼𝓲𝓽𝓸𝓻𝓼 👀 </p>
 <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
 
 <!--
