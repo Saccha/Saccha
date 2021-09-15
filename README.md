@@ -18,7 +18,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="center">visitors </p>
+<p align="center"> 👀 𝓥𝓲𝓼𝓲𝓽𝓸𝓻𝓼 👀</p>
 <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
 
 <!--
