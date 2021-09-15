@@ -1,12 +1,10 @@
 # Hi there 👋
 - 🌱 I’m currently learning Back-end and Front-End: Python,C#,Kotlin,HTML,CSS,JavaScript,C
 
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+
 ![Saccha's GitHub stats](https://github-readme-stats.vercel.app/api?username=saccha&theme=dracula&show_icons=true)
-
-https://github.com/Saccha/github-readme-stats#themes
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saccha&repo=github-readme-stats)](https://github.com/saccha/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saccha&layout=dracula)](https://github.com/saccha/github-readme-stats)
 <!--
 **Saccha/Saccha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
