@@ -1,7 +1,7 @@
 # Hi there 👋
 - 🌱 I’m currently learning Back-end and Front-End: Python,C#,Kotlin,HTML,CSS,JavaScript,C
 
-<img src= https://c.tenor.com/6nBor-Pxi8MAAAAC/anime-onodera.gif width= "500">
+<img src= https://c.tenor.com/6nBor-Pxi8MAAAAC/anime-onodera.gif width= "700">
 
 ![Saccha's GitHub stats](https://github-readme-stats.vercel.app/api?username=saccha&theme=dracula&show_icons=true)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saccha&repo=github-readme-stats)](https://github.com/saccha/github-readme-stats)
