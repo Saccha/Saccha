@@ -1,5 +1,5 @@
 # Hi there 👋
-## - 🌱 I’m currently learning Back-end and Front-End: Python,C#,Kotlin,HTML,CSS,JavaScript,C
+- 🌱 I’m currently learning Back-end and Front-End: Python,C#,Kotlin,HTML,CSS,JavaScript,C
 
 ![Saccha's GitHub stats](https://github-readme-stats.vercel.app/api?username=saccha&theme=dracula&show_icons=true)
 
