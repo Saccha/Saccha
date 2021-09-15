@@ -1,5 +1,6 @@
 # Hi there 👋
-- 🌱 I’m currently learning Back-end and Front-End: Python,C#,Kotlin,HTML,CSS,JavaScript,C
+
+## 🌱 I’m currently learning Back-end and Front-End: Python,C#,Kotlin,HTML,CSS,JavaScript,C
 
 <img src= https://c.tenor.com/6nBor-Pxi8MAAAAC/anime-onodera.gif width= "700">
 
