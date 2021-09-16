@@ -2,9 +2,6 @@
 ## ⭐ 𝓗𝓲 𝓶𝔂 𝓷𝓪𝓶𝓮 𝓲𝓼 𝓢𝓪𝓫𝓻𝓲𝓷𝓪 𝓫𝓾𝓽 𝔂𝓸𝓾 𝓬𝓪𝓷 𝓬𝓪𝓵𝓵 𝓶𝓮 𝓢𝓪𝓬𝓬𝓱𝓪 ⭐
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
-<p align="right"><img alingn="right" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
-<p align="left"><img alingn="left" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
-
 
 ## ⭐ 𝓗𝓮𝓻𝓮 𝓪𝓻𝓮 𝓼𝓸𝓶𝓮 𝓲𝓭𝓮𝓪𝓼 𝓽𝓸 𝓰𝓮𝓽 𝔂𝓸𝓾 𝓼𝓽𝓪𝓻𝓽𝓮𝓭: ⭐
 
