@@ -1,5 +1,23 @@
 # ⭐ 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝖕𝖗𝖔𝖋𝖎𝖑𝖊 ⭐
 ## ⭐ 𝓗𝓲 𝓶𝔂 𝓷𝓪𝓶𝓮 𝓲𝓼 𝓢𝓪𝓫𝓻𝓲𝓷𝓪 𝓫𝓾𝓽 𝔂𝓸𝓾 𝓬𝓪𝓷 𝓬𝓪𝓵𝓵 𝓶𝓮 𝓢𝓪𝓬𝓬𝓱𝓪 ⭐
+----------------------------------------------------------------------------------------------------------------------------------------------------
+<p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
+<p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
+<p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
+<p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
+<p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
+<p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
+<p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
+<p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
+<p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
+<p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
+<p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
+<p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
+<p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
+
+
+
+
 
 ## ⭐ 𝓗𝓮𝓻𝓮 𝓪𝓻𝓮 𝓼𝓸𝓶𝓮 𝓲𝓭𝓮𝓪𝓼 𝓽𝓸 𝓰𝓮𝓽 𝔂𝓸𝓾 𝓼𝓽𝓪𝓻𝓽𝓮𝓭: ⭐
 
@@ -24,7 +42,7 @@
 
 ## ✷  🎀  𝑀𝓎 𝒢𝒾𝓉𝒽𝓊𝒷 𝒮𝓉𝒶𝓉𝓈  🎀  ✷
 
-![Saccha GitHub stats](https://github-readme-stats.vercel.app/api?username=Saccha&show_icons=true&theme=cobalt) <p align="right"><img alingn="right" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "100" height = "100"/></p>
+![Saccha GitHub stats](https://github-readme-stats.vercel.app/api?username=Saccha&show_icons=true&theme=cobalt)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------
