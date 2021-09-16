@@ -1,6 +1,6 @@
 # ⭐ 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝖕𝖗𝖔𝖋𝖎𝖑𝖊 ⭐
 ## ⭐ 𝓗𝓲 𝓶𝔂 𝓷𝓪𝓶𝓮 𝓲𝓼 𝓢𝓪𝓫𝓻𝓲𝓷𝓪 𝓫𝓾𝓽 𝔂𝓸𝓾 𝓬𝓪𝓷 𝓬𝓪𝓵𝓵 𝓶𝓮 𝓢𝓪𝓬𝓬𝓱𝓪 ⭐
-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 <p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
 
 ## ⭐ 𝓗𝓮𝓻𝓮 𝓪𝓻𝓮 𝓼𝓸𝓶𝓮 𝓲𝓭𝓮𝓪𝓼 𝓽𝓸 𝓰𝓮𝓽 𝔂𝓸𝓾 𝓼𝓽𝓪𝓻𝓽𝓮𝓭: ⭐
@@ -9,6 +9,8 @@
 - 👯 I’m looking to collaborate on with anyone on any project
 - 💬 Ask me about everything
 - ⚡ Fun fact: I play any style of game, I love orchids and also study in the arts area drawing in the traditional way and the digital way 
+
+<p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
 
 ## ⭐ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼: ⭐
 <p align="center">
@@ -24,19 +26,24 @@
 
 <p align="center"><img alingn="center" src="https://c.tenor.com/6nBor-Pxi8MAAAAC/anime-onodera.gif " /></p>
 
+<p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
+
+
 ## ✷  🎀  𝑀𝓎 𝒢𝒾𝓉𝒽𝓊𝒷 𝒮𝓉𝒶𝓉𝓈  🎀  ✷
 
 ![Saccha GitHub stats](https://github-readme-stats.vercel.app/api?username=Saccha&show_icons=true&theme=cobalt)
 
 
--------------------------------------------------------------------------------------------------------------------------------------------
+<p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
+
 
 <p align="center"> 👀 𝓥𝓲𝓼𝓲𝓽𝓸𝓻𝓼 👀 </p>
 
 <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
 
 
--------------------------------------------------------------------------------------------------------------------------------------------
+<p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
+
 
 <p align="center"> 🍧  🎀  𝒯𝒽𝒶𝓃𝓀𝓈 𝒻❤𝓇 𝑅𝑒𝒶𝒹𝒾𝓃𝑔  🎀  🍧</p>
 <p align="center"><img alingn="center" src="https://c.tenor.com/wYJQw1NKIbsAAAAC/anime-cute.gif " /></p>
