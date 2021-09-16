@@ -30,7 +30,8 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="center">💖  𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰!  💖<img alingn="center" src="https://c.tenor.com/wYJQw1NKIbsAAAAC/anime-cute.gif " /></p>
+<p align="center"> 🍧  🎀  𝒯𝒽𝒶𝓃𝓀𝓈 𝒻❤𝓇 𝑅𝑒𝒶𝒹𝒾𝓃𝑔  🎀  🍧</p>
+<p align="center"><img alingn="center" src="https://c.tenor.com/wYJQw1NKIbsAAAAC/anime-cute.gif " /></p>
 
 
 <!--
