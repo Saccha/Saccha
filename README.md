@@ -26,7 +26,7 @@
 
 ![Saccha GitHub stats](https://github-readme-stats.vercel.app/api?username=Saccha&show_icons=true&theme=cobalt)
 
-<p align="right"><img alingn="right" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "100"/></p>
+<p align="right"><img alingn="right" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "400"/></p>
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center"> 👀 𝓥𝓲𝓼𝓲𝓽𝓸𝓻𝓼 👀 </p>
