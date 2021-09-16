@@ -22,6 +22,9 @@
 
 <img src= https://c.tenor.com/6nBor-Pxi8MAAAAC/anime-onodera.gif width= "500"> 
 
+
+![Saccha GitHub stats](https://github-readme-stats.vercel.app/api?username=Saccha&show_icons=true&theme=gradient)
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center"> 👀 𝓥𝓲𝓼𝓲𝓽𝓸𝓻𝓼 👀 </p>
