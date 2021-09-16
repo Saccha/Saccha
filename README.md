@@ -36,9 +36,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="center">💖  𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰!  💖 </p>
-
-<p align="center"><img alingn="center" src="https://c.tenor.com/wYJQw1NKIbsAAAAC/anime-cute.gif " /></p>
+<p align="center">💖  𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰!  💖<img alingn="center" src="https://c.tenor.com/wYJQw1NKIbsAAAAC/anime-cute.gif " /></p>
 
 
 <!--
