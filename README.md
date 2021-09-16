@@ -38,7 +38,7 @@
 
 ## 💖  𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰!  💖
 
-<img src = https://c.tenor.com/wYJQw1NKIbsAAAAC/anime-cute.gif>
+<p align="center"><img alingn="center" src="https://c.tenor.com/wYJQw1NKIbsAAAAC/anime-cute.gif " /></p>
 
 
 <!--
