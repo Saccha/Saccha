@@ -33,7 +33,7 @@
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------
-<img src = https://thumbs.gfycat.com/DapperDiligentKid-max-1mb.gif width = "700">
+<img src = https://thumbs.gfycat.com/DapperDiligentKid-max-1mb.gif width = "700" height="400">
 
 
 
