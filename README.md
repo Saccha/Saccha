@@ -30,8 +30,6 @@
 <p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
 
 
-<img src=""https://www.credly.com/badges/9cb2743a-6e38-43d7-8f01-00cedfd28cc0 />
-
 ## ✷  🎀  𝑀𝓎 𝒢𝒾𝓉𝒽𝓊𝒷 𝒮𝓉𝒶𝓉𝓈  🎀  ✷
 
 ![Saccha GitHub stats](https://github-readme-stats.vercel.app/api?username=Saccha&show_icons=true&theme=cobalt)
