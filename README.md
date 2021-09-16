@@ -24,7 +24,7 @@
 
 ## ✷  🎀  𝑀𝓎 𝒢𝒾𝓉𝒽𝓊𝒷 𝒮𝓉𝒶𝓉𝓈  🎀  ✷
 
-![Saccha GitHub stats](https://github-readme-stats.vercel.app/api?username=Saccha&show_icons=true&theme=cobalt) <p align="right"><img alingn="right" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "300" height = "300"/></p>
+![Saccha GitHub stats](https://github-readme-stats.vercel.app/api?username=Saccha&show_icons=true&theme=cobalt) <p align="right"><img alingn="right" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "100" height = "100"/></p>
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------
