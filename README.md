@@ -22,10 +22,6 @@
 
 <img src= https://c.tenor.com/6nBor-Pxi8MAAAAC/anime-onodera.gif width= "500"> 
 
-
--------------------------------------------------------------------------------------------------------------------------------------------
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saccha&hide=html&layout=compact&theme=buefy" />  
-
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center"> 👀 𝓥𝓲𝓼𝓲𝓽𝓸𝓻𝓼 👀 </p>
