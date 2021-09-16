@@ -32,8 +32,6 @@
 
 <p align="center"> 👀 𝓥𝓲𝓼𝓲𝓽𝓸𝓻𝓼 👀 </p>
 
--------------------------------------------------------------------------------------------------------------------------------------------
-
 <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
 
 
@@ -41,7 +39,7 @@
 
 ## 💖  𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰!  💖
 
-<img src = https://64.media.tumblr.com/c63c1222d38a83a05c1f193050ac1af2/tumblr_inline_nl5nofC2YY1sptc1c.gif width = "700">
+<img src = https://c.tenor.com/wYJQw1NKIbsAAAAC/anime-cute.gif>
 
 
 <!--
