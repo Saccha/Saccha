@@ -1,14 +1,14 @@
 # ⭐ 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝖕𝖗𝖔𝖋𝖎𝖑𝖊 ⭐
-## ⭐ Hi my name is Sabrina but you can call me Saccha ⭐
+## ⭐ 𝓗𝓲 𝓶𝔂 𝓷𝓪𝓶𝓮 𝓲𝓼 𝓢𝓪𝓫𝓻𝓲𝓷𝓪 𝓫𝓾𝓽 𝔂𝓸𝓾 𝓬𝓪𝓷 𝓬𝓪𝓵𝓵 𝓶𝓮 𝓢𝓪𝓬𝓬𝓱𝓪 ⭐
 
-## ⭐ Here are some ideas to get you started: ⭐
+## ⭐ 𝓗𝓮𝓻𝓮 𝓪𝓻𝓮 𝓼𝓸𝓶𝓮 𝓲𝓭𝓮𝓪𝓼 𝓽𝓸 𝓰𝓮𝓽 𝔂𝓸𝓾 𝓼𝓽𝓪𝓻𝓽𝓮𝓭: ⭐
 
 - 🌱 I’m currently learning Back-end and Front-end
 - 👯 I’m looking to collaborate on with anyone on any project
 - 💬 Ask me about everything
 - ⚡ Fun fact: I play any style of game, I love orchids and also study in the arts area drawing in the traditional way and the digital way 
 
-## ⭐ Languages and Tools: ⭐
+## ⭐ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼: ⭐
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
