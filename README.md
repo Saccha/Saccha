@@ -60,7 +60,7 @@
 <p align="center"><img alingn="center" src="https://c.tenor.com/wYJQw1NKIbsAAAAC/anime-cute.gif " /></p>
 
 
-<p align="center"><img alingn="center" src="https://c.tenor.com/AE5cg4I3P6sAAAAC/clouds-purple.gif" width = "800" height = "200" /></p>
+<p align="center"><img alingn="center" src="https://c.tenor.com/AE5cg4I3P6sAAAAC/clouds-purple.gif" width = "1000" height = "100" /></p>
 
 
 
