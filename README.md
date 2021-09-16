@@ -1,7 +1,7 @@
 # ⭐ 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝖕𝖗𝖔𝖋𝖎𝖑𝖊 ⭐
 ## ⭐ Hi my name is Sabrina but you can call me Saccha ⭐
 
-## Here are some ideas to get you started:
+## ⭐ Here are some ideas to get you started: ⭐
 
 - 🌱 I’m currently learning Back-end and Front-end
 - 👯 I’m looking to collaborate on with anyone on any project
