@@ -49,17 +49,15 @@
 
 <p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
 
-## <p align = "center "> ✷   🎨 My arts 🎨 ✷ </p>
-
-[![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/hablocher)
-
 
 ## <p align="center"> 👀 𝓥𝓲𝓼𝓲𝓽𝓸𝓻𝓼 👀 </p>
+
 
 <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
 
 
 <p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
+
 
 ## <p align="center"> 🍧  🎀  𝒯𝒽𝒶𝓃𝓀𝓈 𝒻❤𝓇 𝑅𝑒𝒶𝒹𝒾𝓃𝑔  🎀  🍧</p>
 <p align="center"><img alingn="center" src="https://c.tenor.com/wYJQw1NKIbsAAAAC/anime-cute.gif " /></p>
