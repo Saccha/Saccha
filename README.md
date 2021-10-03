@@ -52,7 +52,7 @@
 
 ## <p align="center"> 👀 𝓥𝓲𝓼𝓲𝓽𝓸𝓻𝓼 👀 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/{Saccha}/count.svg)
+<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/Saccha/count.svg" /></p>
 
 <p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
 
