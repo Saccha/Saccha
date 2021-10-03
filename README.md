@@ -51,7 +51,7 @@
 
 ## <p align = "center "> ✷   🎨 My arts 🎨 ✷ </p>
 
-![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white})
+![DeviantArt]({https://www.deviantart.com/hablocher})
 
 
 ## <p align="center"> 👀 𝓥𝓲𝓼𝓲𝓽𝓸𝓻𝓼 👀 </p>
