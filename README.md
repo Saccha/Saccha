@@ -5,10 +5,10 @@
 
 ## <p align = "center ">⭐ 𝓗𝓮𝓻𝓮 𝓪𝓻𝓮 𝓼𝓸𝓶𝓮 𝓲𝓭𝓮𝓪𝓼 𝓽𝓸 𝓰𝓮𝓽 𝔂𝓸𝓾 𝓼𝓽𝓪𝓻𝓽𝓮𝓭: ⭐</p>
 
-- 🌱 I’m currently learning Back-end and Front-end
-- 👯 I’m looking to collaborate on with anyone on any project
-- 💬 Ask me about everything
-- ⚡ Fun fact: I play any style of game, I love orchids and also study in the arts area drawing in the traditional way and the digital way 
+### - 🌱 I’m currently learning Back-end and Front-end
+### - 👯 I’m looking to collaborate on with anyone on any project
+### - 💬 Ask me about everything
+### - ⚡ Fun fact: I play any style of game, I love orchids and also study in the arts area drawing in the traditional way and the digital way 
 
 <p align="center"><img alingn="center" src="https://c.tenor.com/6nBor-Pxi8MAAAAC/anime-onodera.gif " /></p>
 
