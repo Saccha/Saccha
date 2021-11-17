@@ -13,7 +13,7 @@
          alt="draw01" 
          align="right"
          width = "350"
-         height = "450">
+         height = "650">
  
 ### - 🌱 I’m currently learning Back-end and Front-end
 ### - 👯 I’m looking to collaborate on with anyone on any project
