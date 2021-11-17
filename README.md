@@ -12,7 +12,7 @@
 "99aa-e0a2ba279195.jpg/v1/fill/w_1024,h_1452,q_75,strp/i_m_not_cute_by_hablocher_denewlx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ1MiIsInBhdGgiOiJcL2ZcL2EwZGFiZTQwLTc5YTItNDc5MC1iYWU1LWRjYzQ1YjY2OTk2ZVwvZGVuZXdseC0xMjQ4NWJmMS1iZmNlLTRiMWItOTlhYS1lMGEyYmEyNzkxOTUuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.3frJFhOXR8yNjn29Uxgbind58RXgfHvbBhFB2u5-TJo" 
          alt="draw01" 
          align="right"
-         width = "350">
+         width = "200">
  
 ### - 🌱 I’m currently learning Back-end and Front-end
 ### - 👯 I’m looking to collaborate on with anyone on any project
