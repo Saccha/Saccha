@@ -22,7 +22,7 @@
 ### - 🖥️ looking for opportunities
 
 
-<p align="center"><img alingn="right" src="https://c.tenor.com/6nBor-Pxi8MAAAAC/anime-onodera.gif " width ="350" height="450" /></p>
+<p align="center"><img alingn="right" src="https://c.tenor.com/6nBor-Pxi8MAAAAC/anime-onodera.gif " width ="350" height="350" /></p>
 
 
 <p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
