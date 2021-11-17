@@ -17,6 +17,9 @@
 ### - 🌱 I’m currently learning Back-end and Front-end
 ### - 👯 I’m looking to collaborate on with anyone on any project
 ### - 💬 Ask me about everything
+### - 🎨 I'm a designer in my spare time
+### - ❤️ I like playing with CSS animation
+
 
 <p align="center"><img alingn="center" src="https://c.tenor.com/6nBor-Pxi8MAAAAC/anime-onodera.gif " /></p>
 
