@@ -19,6 +19,7 @@
 ### - 💬 Ask me about everything
 ### - 🎨 I'm a designer in my spare time
 ### - ❤️ I like playing with CSS animation
+### - Always willing to learn and teach
 
 
 <p align="center"><img alingn="center" src="https://c.tenor.com/6nBor-Pxi8MAAAAC/anime-onodera.gif " /></p>
