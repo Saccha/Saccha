@@ -17,7 +17,6 @@
 ### - 🌱 I’m currently learning Back-end and Front-end
 ### - 👯 I’m looking to collaborate on with anyone on any project
 ### - 💬 Ask me about everything
-### - ⚡ Fun fact: I play any style of game, I love orchids and also study in the arts area drawing in the traditional way and the digital way 
 
 <p align="center"><img alingn="center" src="https://c.tenor.com/6nBor-Pxi8MAAAAC/anime-onodera.gif " /></p>
 
