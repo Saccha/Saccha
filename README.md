@@ -64,6 +64,14 @@
 [![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/hablocher)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/vervloetheassassin/)](https://www.instagram.com/vervloetheassassin/)
 
+ <img src=
+"99aa-e0a2ba279195.jpg/v1/fill/w_1024,h_1452,q_75,strp/i_m_not_cute_by_hablocher_denewlx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ1MiIsInBhdGgiOiJcL2ZcL2EwZGFiZTQwLTc5YTItNDc5MC1iYWU1LWRjYzQ1YjY2OTk2ZVwvZGVuZXdseC0xMjQ4NWJmMS1iZmNlLTRiMWItOTlhYS1lMGEyYmEyNzkxOTUuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.3frJFhOXR8yNjn29Uxgbind58RXgfHvbBhFB2u5-TJo" 
+         alt="draw01" 
+         align="right">
+    <img src=
+"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a0dabe40-79a2-4790-bae5-dcc45b66996e/demudwe-b42130c5-ac4e-4aed-9146-e81250d29947.jpg/v1/fill/w_1024,h_1449,q_75,strp/the_lady_by_hablocher_demudwe-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0OSIsInBhdGgiOiJcL2ZcL2EwZGFiZTQwLTc5YTItNDc5MC1iYWU1LWRjYzQ1YjY2OTk2ZVwvZGVtdWR3ZS1iNDIxMzBjNS1hYzRlLTRhZWQtOTE0Ni1lODEyNTBkMjk5NDcuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.LcpGyJrMVxrXc4Cw92vMfbPc2H97_lEGDEdEMPBoojI" 
+         alt="draw02" 
+         align="left">
 
 
 
