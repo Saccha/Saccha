@@ -7,6 +7,13 @@
 
 ## <p align = "center ">⭐ 𝓗𝓮𝓻𝓮 𝓪𝓻𝓮 𝓼𝓸𝓶𝓮 𝓲𝓭𝓮𝓪𝓼 𝓽𝓸 𝓰𝓮𝓽 𝔂𝓸𝓾 𝓼𝓽𝓪𝓻𝓽𝓮𝓭: ⭐</p>
 
+
+ <img src=
+"99aa-e0a2ba279195.jpg/v1/fill/w_1024,h_1452,q_75,strp/i_m_not_cute_by_hablocher_denewlx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ1MiIsInBhdGgiOiJcL2ZcL2EwZGFiZTQwLTc5YTItNDc5MC1iYWU1LWRjYzQ1YjY2OTk2ZVwvZGVuZXdseC0xMjQ4NWJmMS1iZmNlLTRiMWItOTlhYS1lMGEyYmEyNzkxOTUuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.3frJFhOXR8yNjn29Uxgbind58RXgfHvbBhFB2u5-TJo" 
+         alt="draw01" 
+         align="right"
+         width = "350">
+ 
 ### - 🌱 I’m currently learning Back-end and Front-end
 ### - 👯 I’m looking to collaborate on with anyone on any project
 ### - 💬 Ask me about everything
@@ -70,20 +77,6 @@
 
 ## <p align="center"> 🍧  🎀  𝒯𝒽𝒶𝓃𝓀𝓈 𝒻❤𝓇 𝑅𝑒𝒶𝒹𝒾𝓃𝑔  🎀  🍧</p>
 <p align="center"><img alingn="center" src="https://c.tenor.com/wYJQw1NKIbsAAAAC/anime-cute.gif " /></p>
-
-
- <img src=
-"99aa-e0a2ba279195.jpg/v1/fill/w_1024,h_1452,q_75,strp/i_m_not_cute_by_hablocher_denewlx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ1MiIsInBhdGgiOiJcL2ZcL2EwZGFiZTQwLTc5YTItNDc5MC1iYWU1LWRjYzQ1YjY2OTk2ZVwvZGVuZXdseC0xMjQ4NWJmMS1iZmNlLTRiMWItOTlhYS1lMGEyYmEyNzkxOTUuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.3frJFhOXR8yNjn29Uxgbind58RXgfHvbBhFB2u5-TJo" 
-         alt="draw01" 
-         align="right"
-         width = "350">
-    <img src=
-"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a0dabe40-79a2-4790-bae5-dcc45b66996e/demudwe-b42130c5-ac4e-4aed-9146-e81250d29947.jpg/v1/fill/w_1024,h_1449,q_75,strp/the_lady_by_hablocher_demudwe-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0OSIsInBhdGgiOiJcL2ZcL2EwZGFiZTQwLTc5YTItNDc5MC1iYWU1LWRjYzQ1YjY2OTk2ZVwvZGVtdWR3ZS1iNDIxMzBjNS1hYzRlLTRhZWQtOTE0Ni1lODEyNTBkMjk5NDcuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.LcpGyJrMVxrXc4Cw92vMfbPc2H97_lEGDEdEMPBoojI" 
-         alt="draw01" 
-         align="left"
-         width = "350">
-
-
 
 <p align="center"><img alingn="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2d7aee51-8199-49aa-a6ff-392ff34d32f5/davewa1-03f397ef-3c71-47d8-9eb5-a791c180c8de.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJkN2FlZTUxLTgxOTktNDlhYS1hNmZmLTM5MmZmMzRkMzJmNVwvZGF2ZXdhMS0wM2YzOTdlZi0zYzcxLTQ3ZDgtOWViNS1hNzkxYzE4MGM4ZGUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Y990kkABxxiONcsaemF4bTu0fBuRODOaOth5wOIA9Dk" width = "1100" height = "100" /></p>
 
