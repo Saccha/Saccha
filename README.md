@@ -79,7 +79,7 @@
          width = "350">
     <img src=
 "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a0dabe40-79a2-4790-bae5-dcc45b66996e/demudwe-b42130c5-ac4e-4aed-9146-e81250d29947.jpg/v1/fill/w_1024,h_1449,q_75,strp/the_lady_by_hablocher_demudwe-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0OSIsInBhdGgiOiJcL2ZcL2EwZGFiZTQwLTc5YTItNDc5MC1iYWU1LWRjYzQ1YjY2OTk2ZVwvZGVtdWR3ZS1iNDIxMzBjNS1hYzRlLTRhZWQtOTE0Ni1lODEyNTBkMjk5NDcuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.LcpGyJrMVxrXc4Cw92vMfbPc2H97_lEGDEdEMPBoojI" 
-         alt="draw02" 
+         alt="draw01" 
          align="left"
          width = "350">
 
