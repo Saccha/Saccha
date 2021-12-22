@@ -7,13 +7,6 @@
 
 ## <p align = "center ">⭐ 𝓗𝓮𝓻𝓮 𝓪𝓻𝓮 𝓼𝓸𝓶𝓮 𝓲𝓭𝓮𝓪𝓼 𝓽𝓸 𝓰𝓮𝓽 𝔂𝓸𝓾 𝓼𝓽𝓪𝓻𝓽𝓮𝓭: ⭐</p>
 
-
-<img src=
-"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a0dabe40-79a2-4790-bae5-dcc45b66996e/denewlx-12485bf1-bfce-4b1b-99aa-e0a2ba279195.jpg/v1/fill/w_1024,h_1452,q_75,strp/i_m_not_cute_by_hablocher_denewlx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ1MiIsInBhdGgiOiJcL2ZcL2EwZGFiZTQwLTc5YTItNDc5MC1iYWU1LWRjYzQ1YjY2OTk2ZVwvZGVuZXdseC0xMjQ4NWJmMS1iZmNlLTRiMWItOTlhYS1lMGEyYmEyNzkxOTUuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.3frJFhOXR8yNjn29Uxgbind58RXgfHvbBhFB2u5-TJo" 
-         alt="draw01" 
-         align="right"
-         width = "350"
-         height = "590">
  
 ### - 🌱 I’m currently learning Back-end and Front-end
 ### - 👯 I’m looking to collaborate on with anyone on any project
