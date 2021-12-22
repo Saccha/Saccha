@@ -15,6 +15,7 @@
 ### - ❤️ I like playing with CSS animation
 ### - 🖥️ looking for opportunities
 
+<p align="center"><img alingn="center" src="https://thumbs.gfycat.com/ConventionalMiniatureHornedviper-max-1mb.gif" width = "50" height = "50"/></p>
 
 <p align="center"><img alingn="right" src="https://c.tenor.com/6nBor-Pxi8MAAAAC/anime-onodera.gif " width ="550" /></p>
 
